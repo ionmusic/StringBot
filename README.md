@@ -1,8 +1,8 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/stringriobot)
+# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/PrimeStringbot)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/rioprojectx"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://t.me/PrimeSupportGroup"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/RioProjectX/GenerateString
+   git clone https://github.com/Tonic990/stringbot
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -66,14 +66,14 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Rio Project](https://t.me/rioprojects)
+Channel :- [Support Channel](https://t.me/PrimeSupportChannel)
 
-Group Chat :- [Group support](https://t.me/riogroupsupport)
+Group Chat :- [Group support](https://t.me/PrimeSupportGroup)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/rioprojectx)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Tonic990)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/rioprojectx)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/Tonic990)
