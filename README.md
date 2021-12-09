@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/PrimeStringbot)
+# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/NastyStringbot)
 
 > A star ⭐ from you means a lot to us!
 
@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tonic990/stringbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammadrizky16/StringKyy)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/Tonic990/stringbot
+   git clone https://github.com/muhammadrizky16/StringKyy
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -66,9 +66,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Support Channel](https://t.me/PrimeSupportChannel)
+Channel :- [Support Channel](https://t.me/ahhsudahlahhh)
 
-Group Chat :- [Group support](https://t.me/PrimeSupportGroup)
+Group Chat :- [Group support](https://t.me/NastySupportt)
 
 ## :)
 
