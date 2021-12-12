@@ -53,7 +53,7 @@ By @IDnyaKosong
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @PrimeStringbot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @NastyStringbot
 
 Group Support : [ɢᴀʙᴜɴɢ](https://t.me/NastySupportt)
 
