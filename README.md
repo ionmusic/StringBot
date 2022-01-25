@@ -8,16 +8,14 @@ Telegram bot to generate pyrogram and telethon string session.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-## Usage
+<h2 align="center">
+   Metode Deploy
+</h2>
 
-### Deploy to Heroku
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/templat-userbot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L1N0cmluZ0t5eSBtYXN0ZXI"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammadrizky16/StringKyy)
-
-1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
-2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
-3. After deploying is complete, tap on "Manage App"
-4. Check the logs to see if your bot is ready!
 
 ### Local Deploying
 
