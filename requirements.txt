@@ -1,4 +1,4 @@
-pyrogram~=1.2.20
+git+https://github.com/pyrogram/pyrogram@master
 Telethon==1.24.0
 TgCrypto
 SQLAlchemy~=1.4.21
