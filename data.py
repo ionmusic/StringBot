@@ -6,7 +6,7 @@ class Data:
 
     home_buttons = [
         generate_single_button,
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
+        [InlineKeyboardButton(text="🏠 Home 🏠", callback_data="home")]
     ]
 
     generate_button = [generate_single_button]
@@ -16,7 +16,7 @@ class Data:
         [InlineKeyboardButton("Developer", url="https://t.me/punyaionnibos")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("👉 About 👈", callback_data="about")
         ],
         [InlineKeyboardButton("Projecet", url="https://t.me/punyaionnibos")],
     ]
@@ -49,7 +49,7 @@ By @punyaionnibos
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @xflskyy
+Telegram Bot to generate Pyrogram and Telethon string session by @disinikazu
 
 Group Support : [Click Here](https://t.me/kazusupportgrp)
 
