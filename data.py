@@ -13,12 +13,12 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("Developer", url="https://t.me/IDnyaKosong")],
+        [InlineKeyboardButton("Developer", url="https://t.me/punyaionnibos")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("Projecet", url="https://t.me/NastyProject")],
+        [InlineKeyboardButton("Projecet", url="https://t.me/punyaionnibos")],
     ]
 
     START = """
@@ -33,7 +33,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
 
-By @IDnyaKosong
+By @punyaionnibos
     """
 
     HELP = """
@@ -51,11 +51,11 @@ By @IDnyaKosong
 
 Telegram Bot to generate Pyrogram and Telethon string session by @xflskyy
 
-Group Support : [Click Here](https://t.me/NastySupportt)
+Group Support : [Click Here](https://t.me/kazusupportgrp)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Developer : @IDnyaKosong
+Developer : @punyaionnibos
     """
