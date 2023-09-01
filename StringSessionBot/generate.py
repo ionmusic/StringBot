@@ -158,7 +158,10 @@ async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: 
     except KeyError:
         pass
     await client.disconnect()
-    await bot.send_message(msg.chat.id, "Successfully generated {} string session. \n\nPlease check your saved messages! \n\nBy @NastySupport".format("telethon" if telethon else "pyrogram"))
+    await bot.send_message(
+        msg.chat.id,
+        f'Successfully generated {"telethon" if telethon else "pyrogram"} string session. \n\nPlease check your saved messages! \n\nBy @NastySupport',
+    )
 
 
 async def cancelled(msg):
